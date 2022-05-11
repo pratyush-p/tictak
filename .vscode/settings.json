@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ee060ae4-60fe-4fe7-ba30-5de56ef32b97/resourceGroups/PratsTikTakToeAppTry1-rg/providers/Microsoft.Web/sites/PratsTikTakToeAppTry1",
+    "appService.deploySubpath": "."
+}
